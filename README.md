@@ -1,2 +1,2 @@
 # PyTorch-FashionMNIST
-computer vision with pytorch, based on the pytorch course by Daniel Bourke
+Computer vision with PyTorch, based on the PyTorch course by Daniel Bourke
